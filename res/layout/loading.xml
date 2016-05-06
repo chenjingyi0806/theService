@@ -1,0 +1,39 @@
+<TableLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+ 
+   >
+      
+    <Button
+        android:id="@+id/btn_qrcode"	      	
+        android:layout_height="wrap_content" 
+        android:layout_width="wrap_content"      	        	            
+        android:text="二维码扫描"	        
+     />	    
+    <Button
+      	 android:id="@+id/btn_map"	       
+	     android:layout_height="wrap_content"
+	     android:layout_width="wrap_content" 	          
+	     android:text="定位导航"	       
+     />
+    <Button 
+        android:id="@+id/btn_inquiry"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="任务查询"/>
+	
+	<TextView 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="杭州巨骐信息科技有限公司"
+	    android:textSize="18sp"
+	    android:textColor="@color/black"
+	    android:layout_gravity="bottom"
+	    android:layout_weight="1" 
+	    android:gravity="bottom|center_horizontal"
+	    android:layout_marginBottom="20dp"/>
+	
+	    
+</TableLayout> 

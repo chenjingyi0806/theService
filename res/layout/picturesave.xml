@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white_gray" >
+  	<LinearLayout 
+  	    android:layout_width="match_parent"
+  	    android:layout_height="wrap_content"
+  	    android:orientation="horizontal"
+  	    android:background="@color/white_gray">
+  	    <Button 
+  	        android:id="@+id/btn_back"
+  	        android:layout_width="wrap_content"
+  	        android:layout_height="wrap_content"
+  	        android:text="  返回  "/>
+  	     <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+	        android:text="图片预览"
+	        android:textColor="@color/black"
+	        android:textSize="18sp"
+	        android:layout_gravity="center_vertical|center_horizontal"
+	        
+	        android:layout_weight="1"
+	        android:gravity="center_vertical|center_horizontal"
+        /> 
+        <Button 
+            android:id="@+id/btn_save"
+            android:layout_width="wrap_content"
+  	        android:layout_height="wrap_content"
+  	        android:text="  保存  "/>
+  	</LinearLayout>
+  
+	<ImageView 
+	    android:id="@+id/image"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:contentDescription="记录"
+	    android:layout_marginTop="10dp"
+	    android:layout_marginBottom="10dp"
+	    android:layout_weight="1"
+	    
+	    />
+	<EditText 
+	    android:id="@+id/image_text"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:lines="3"
+	    android:paddingTop="5dp"
+	    android:hint="请输入图片信息"
+	  />
+
+</LinearLayout>

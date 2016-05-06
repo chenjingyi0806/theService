@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    >
+  <TableRow 
+      android:layout_marginTop="40dp">
+      <TextView 
+          
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="用户名"
+          
+          android:textSize="16sp"/>
+     
+      <EditText 
+          android:id="@+id/usr"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:inputType="number"
+          />
+      
+  </TableRow>
+  <TableRow >
+      <TextView 
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="密码"
+          android:textSize="16sp"/>
+      <EditText 
+          android:id="@+id/pass"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:inputType="textPassword"/>
+  </TableRow>
+  <TableRow 
+      android:layout_marginTop="10dp">
+      <TextView 
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="身份"
+          android:textSize="16sp"/>
+      <RadioGroup 
+          android:id="@+id/identify"
+          android:orientation="horizontal">
+          <RadioButton 
+              android:id="@+id/staff"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="员工"
+              android:checked="true"
+              android:textColor="@color/black"
+              />
+          <RadioButton 
+              android:id="@+id/manager"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="管理员"
+              android:textColor="@color/black"/>
+      </RadioGroup>
+  </TableRow>
+  <Button 
+      android:id="@+id/btn_login"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:text="登录"/>
+  
+
+</TableLayout>

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f98631-1f2f-42e4-acd9-00311be56dc5" name="Default" comment="">
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\LightControl.apk" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\AdcloudApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\Constant.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\R.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\View_Util.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice$4.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice$5.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\AddDevice.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\CommList.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DesktopActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DesktopActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DesktopActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DesktopActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\DeviceGroupControlView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\ModeControlView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\ModeControlView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\ModeControlView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\Navitation$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\Navitation$onChangeViewListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\Navitation.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\gateway\AddGateway$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\gateway\AddGateway$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\gateway\AddGateway$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\gateway\AddGateway$4.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\gateway\AddGateway.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Loading$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Loading.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Login$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Login$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Login$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\login\Login.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$5.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$6.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$7.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$8.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$9.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$MyViewPagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$RadioGroupCheckedChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView$ViewPagerPageChanageListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\activities\navitation\LightControlView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\adapter\ExpandAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\adapter\ExpandAdapter$ChildViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\adapter\ExpandAdapter$GroupViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\adapter\ExpandAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\adapter\ModeAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\BaseActivityWithListView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\FlipperLayout$OnCloseListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\FlipperLayout$OnOpenListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\FlipperLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\ProgressAsyncTask$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\ProgressAsyncTask$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\ProgressAsyncTask.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\SimpleBeanAdapter$SimpleFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\SimpleBeanAdapter$ViewBinder.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\base\SimpleBeanAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\bean\AlarmRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\bean\Device.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\bean\DeviceGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\bean\Mode.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\bean\ModeRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\DBOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\DBProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\MyDatabaseHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\action\AlarmRecordDBAction.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\action\DeviceDBAction.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\action\DeviceGroupDBAction.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\action\ModeDBAction.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\db\action\ModeRecordDBAction.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\test\JunitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\BeanUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\Client.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\ClientSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\CustomDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\DensityUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\DeviceUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\Exit$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\Exit.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\PreferencesUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\SendTCPTask.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\StreamTool.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\TaskProgressDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\utils\ValiDataUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper$2.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper$ArrowView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper$CornerListView.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper$OnItemSeletedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\com\acadiatech\light\control\view\spinner\CustomSinnper.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\FileBean.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\FileMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\HeadBean.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\JsonBean.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\SocKetBean.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\classes\object\UserBean.class" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\dexedLibs\Acadiatech_JSON-7765d950c08593edf392fbe4e8318402.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\dexedLibs\android-support-v4-3c40201a47073fac85c070ae3f380613.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\dexedLibs\zxing-6d306b0cdc2bb8947d787df747e9f481.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\add_group_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\add_mode_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\alert_setting_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\back_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\butn_close.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\butn_open.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\device_groud_item_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\device_groud_item_background_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\device_group_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\device_switch_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\dialog_ed_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\drawable_expand_close.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\drawable_expand_open.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\enter_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\head_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\horizontal_separation_line.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\left_nav_channel_clicked.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\left_nav_channel_selected.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\left_nav_channel_unselected.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\loading.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_bottom_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_bottom_background_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_icon_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_icon_password.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\login_icon_username.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\main_add_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\main_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\main_delete_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\main_head_flip.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\main_more_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\menu_gateway_select_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\menu_introduce_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\menu_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\menu_setting_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\mm_title_back_focused.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\mm_title_back_normal.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\mm_title_back_pressed.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\mmtitle_bg_alpha.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\mode_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\next_icon_right.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\pre_file_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\pupupwindow_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\qr_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\qr_code_icon_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\radiogroup_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\scanning_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\spinner_edit_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\spinner_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-hdpi\spinner_item_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\bin\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\gen\com\acadiatech\light\control\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\gen\com\acadiatech\light\control\R.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\libs\Acadiatech_JSON.jar" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\add_group_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\add_mode_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\alert_setting_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\back_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\butn_close.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\butn_open.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\device_groud_item_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\device_groud_item_background_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\device_group_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\device_switch_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\dialog_ed_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\drawable_expand_close.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\drawable_expand_open.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\ed_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\edit_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\enter_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\head_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\horizontal_separation_line.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\left_nav_channel_clicked.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\left_nav_channel_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\left_nav_channel_selected.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\left_nav_channel_unselected.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\loading.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_bottom_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_bottom_background_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_btn_bg.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_btn_bg_click.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_edit_bg.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_icon_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_icon_password.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\login_icon_username.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\main_add_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\main_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\main_delete_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\main_head_flip.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\main_more_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\menu_gateway_select_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\menu_introduce_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\menu_light_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\menu_setting_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\mode_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\next_icon_right.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\pre_file_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\pupupwindow_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\qr_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\qr_code_icon_click.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\radiogroup_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\round_backgrouond.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\round_btn_bg.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\round_btn_bg_click.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\round_button.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\round_button_click.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\scanning_code_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\spinner_background.9.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\spinner_edit_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\spinner_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable-hdpi\spinner_item_background.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\btn_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\device_group_background_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\expander_floder.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\form_row_input_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\left_nav_channel_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\login_bottom_background_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\qr_code_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\round_btn_bg_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\round_button_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\drawable\selector_btn_toggle.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\add_device.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\add_device_popupwindow.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\add_gateway.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\child_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\common_listview.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\device_mode_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\dialog_add_device.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\dialog_add_gateway.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\group_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\light_control_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\login.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\main_file_head.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\more_popupwindow.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\navitation_channel_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\res\layout\spiner_window_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\AdcloudApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\Constant.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\View_Util.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\AddDevice.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\CommList.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\DesktopActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\DeviceGroupControlView.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\ModeControlView.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\Navitation.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\gateway\AddGateway.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\login\Loading.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\login\Login.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\activities\navitation\LightControlView.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\adapter\ExpandAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\adapter\ModeAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\base\BaseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\base\BaseActivityWithListView.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\base\FlipperLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\base\ProgressAsyncTask.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\base\SimpleBeanAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\bean\AlarmRecord.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\bean\Device.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\bean\DeviceGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\bean\Mode.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\bean\ModeRecord.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\DBOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\DBProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\MyDatabaseHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\action\AlarmRecordDBAction.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\action\DeviceDBAction.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\action\DeviceGroupDBAction.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\action\ModeDBAction.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\db\action\ModeRecordDBAction.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\test\JunitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\BeanUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\Client.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\ClientSocket.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\CustomDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\DensityUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\DeviceUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\Exit.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\PreferencesUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\SendTCPTask.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\StreamTool.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\TaskProgressDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\utils\ValiDataUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\com\acadiatech\light\control\view\spinner\CustomSinnper.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\FileBean.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\FileMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\HeadBean.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\JsonBean.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\SocKetBean.java" afterPath="" />
+      <change type="DELETED" beforePath="H:\android\mZXing\src\object\UserBean.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/AutoFocusCallback.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/AutoFocusCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/CameraConfigurationManager.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/CameraConfigurationManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/CameraManager.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/CameraManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/CaptureActivityHandler$State.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/CaptureActivityHandler$State.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/CaptureActivityHandler.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/CaptureActivityHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeFormatManager.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeFormatManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeHandler.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeThread.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/decoding/DecodeThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/FlashlightManager.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/FlashlightManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture$2.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/MipcaActivityCapture.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/PreviewCallback.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/camera/PreviewCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/app/zxing/view/ViewfinderView.class" afterPath="$PROJECT_DIR$/bin/classes/com/app/zxing/view/ViewfinderView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/app/zxing/camera/CameraManager.java" afterPath="$PROJECT_DIR$/src/com/app/zxing/camera/CameraManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/app/zxing/decoding/CaptureActivityHandler.java" afterPath="$PROJECT_DIR$/src/com/app/zxing/decoding/CaptureActivityHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/app/zxing/decoding/DecodeHandler.java" afterPath="$PROJECT_DIR$/src/com/app/zxing/decoding/DecodeHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/app/zxing/MipcaActivityCapture.java" afterPath="$PROJECT_DIR$/src/com/app/zxing/MipcaActivityCapture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/app/zxing/view/ViewfinderView.java" afterPath="$PROJECT_DIR$/src/com/app/zxing/view/ViewfinderView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/colors.xml" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="$PROJECT_DIR$/bin/jarlist.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lint.xml" afterPath="$PROJECT_DIR$/lint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/loading.xml" afterPath="$PROJECT_DIR$/res/layout/loading.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+    </list>
+    <ignored path="mZXing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mZXing" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f98631-1f2f-42e4-acd9-00311be56dc5" name="Default" comment="" />
+      <created>1460718976726</created>
+      <option name="number" value="Default" />
+      <updated>1460718976726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 23 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mZXing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

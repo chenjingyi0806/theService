@@ -1,0 +1,4 @@
+Manifest-Version: 2.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: BaiduNavi
+
